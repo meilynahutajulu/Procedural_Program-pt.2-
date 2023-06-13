@@ -1,0 +1,7 @@
+percobaan 1
+percobaan 2
+memperbaiki fungsi 
+memperbaiki fungsi
+menambahi fungsi pada dorm
+menambahi fungsi untuk meng-assign student
+merubah fungsi malloc yang digunakan

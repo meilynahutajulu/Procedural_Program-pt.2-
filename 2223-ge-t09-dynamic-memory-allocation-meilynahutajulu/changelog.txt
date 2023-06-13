@@ -1,0 +1,9 @@
+Percobaan 1.
+memperbaiki nama variabel.
+merubah file pada compile.
+mengganti fungsi untuk inputan.
+melengkapi code pada t02-t04.
+menambahkan fitur find course.
+menambahkan tanda kurung
+merubah find_Student menjadi fing_course
+find_course_by_id --> find_course_by_code

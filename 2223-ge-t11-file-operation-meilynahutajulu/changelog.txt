@@ -1,0 +1,6 @@
+Percobaan 1
+Perubahan fungsi untuk gender
+memperbaiki data storage
+mengulang program yang semula
+mengganti loopingan pada t11_01
+menambahkan fungsi untuk perintah assign student
